@@ -1,0 +1,34 @@
+.main {
+  background-color: silver;
+  display: flex;
+  margin: 40px;
+}
+.disp {
+  background-color: lightgray;
+  border: solid blue 5px;
+  width: 400px;
+  height: 400px;
+  padding: 10px;
+  /* margin-left: 40px; */
+  margin: 30px;
+}
+
+.inp {
+  padding: 10px;
+  /* padding-top: 20px; */
+  height: 400px;
+  width: 350px;
+  border: red solid 5px;
+  border-radius: 15px;
+  margin: 30px;
+}
+
+input {
+  padding: 10px;
+  width: 300px;
+  border-radius: 10px;
+}
+
+h1 {
+  color: red;
+}
